@@ -1,0 +1,6 @@
+tqdm
+validators
+Crypto
+requests
+werkzeug
+PIL
